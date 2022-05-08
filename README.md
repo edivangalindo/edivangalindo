@@ -1,5 +1,6 @@
 ### Hi there 👋
-### My name is Edivan, but you can call me Ed
+
+My name is Edivan, but you can call me Ed
 
 I've been working in IT since I was 16, I've always been fascinated by computers and understanding how things work.
 
