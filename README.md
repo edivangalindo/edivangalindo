@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-My name is Edivan, but you can call me Ed
+#### My name is Edivan, but you can call me Ed
 
 I've been working in IT since I was 16, I've always been fascinated by computers and understanding how things work.
-
-I had a long journey as a software engineer, where I went from trainee to senior and gradually specialized in software security until I made a career transition, taking on the role of offensive security engineer.
 
 I've used all the knowledge I've accumulated over the years to create offensive security tools and automate processes whenever I can.
 
