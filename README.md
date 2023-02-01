@@ -4,7 +4,9 @@
 
 I've been working in IT since I was 16, I've always been fascinated by computers and understanding how things work.
 
-I've used all the knowledge I've accumulated over the years to create offensive security tools and automate processes whenever I can.
+I was a software engineer for several years and about 3 years ago I specialized in cybersecurity.
+
+I've been trying to use the knowledge I've accumulated over the years as a software engineer to create offensive security tools and automate processes whenever possible.
 
 At the same time, in my spare time, I work on bug bounty programs where I got bounties for bugs found in big companies like Netflix, Shopify, Yelp, and Elastic.
 
